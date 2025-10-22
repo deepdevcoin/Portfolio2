@@ -18,6 +18,12 @@ export const metadata: Metadata = {
     description: "Building smart, scalable, and AI-powered web experiences.",
     type: "website",
   },
+  icons: {
+    icon: "/logo/Deepdev.png",
+    shortcut: "/logo/Deepdev.png",
+    // optionally apple icon if you have one for iOS devices
+    // apple: "/logo/apple-touch-icon.png",
+  },
 }
 
 export default function RootLayout({

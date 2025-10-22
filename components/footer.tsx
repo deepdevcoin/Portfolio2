@@ -10,7 +10,7 @@ export default function Footer() {
     Product: [
       { label: "Projects", href: "#projects" },
       { label: "Services", href: "#services" },
-      { label: "Tech Stack", href: "#services" },
+      { label: "Tech Stack", href: "#service" },
     ],
     Company: [
       { label: "About", href: "#about" },
