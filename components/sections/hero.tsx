@@ -7,8 +7,6 @@ export default function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center pt-16 bg-background">
       <div className="max-w-4xl mx-auto px-6 text-center">
-        <p className="text-sm font-medium text-muted-foreground mb-4 tracking-wide">Welcome to my portfolio</p>
-
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
           AI Engineer & Full Stack Developer
         </h1>

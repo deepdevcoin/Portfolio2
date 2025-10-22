@@ -62,6 +62,16 @@ const projects = [
     featured: false,
     image: "/vr-training-simulation.jpg",
   },
+    {
+    title: "Business Portfolio",
+    description:
+      "A professional business portfolio website designed to showcase company projects, services, and expertise effectively.",
+    stack: ["Next.js", "Tailwind CSS", "React"],
+    live: "https://business.portfolio.co.in/",
+    github: "#", // Add repository URL if available
+    featured: true,
+    image: "/business-portfolio-website.jpg",
+  },
 ]
 
 export default function Projects() {
