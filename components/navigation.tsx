@@ -17,7 +17,7 @@ export default function Navigation({ activeSection }: NavigationProps) {
     { label: "Projects", href: "#projects" },
     { label: "Skills", href: "#skills" },
     { label: "Services", href: "#services" },
-    { label: "Contact", href: "#contact" },
+    // { label: "Contact", href: "#contact" },
   ]
 
   const isActive = (section: string) => activeSection === section
