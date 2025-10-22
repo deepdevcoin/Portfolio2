@@ -67,7 +67,7 @@ const projects = [
     description:
       "A professional business portfolio website designed to showcase company projects, services, and expertise effectively.",
     stack: ["Next.js", "Tailwind CSS", "React"],
-    live: "https://business.portfolio.co.in/",
+    live: "https://business.deepdev.co.in/",
     github: "#", // Add repository URL if available
     featured: true,
     image: "/business-portfolio-website.jpg",
