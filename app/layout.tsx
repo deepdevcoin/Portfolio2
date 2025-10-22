@@ -21,8 +21,6 @@ export const metadata: Metadata = {
   icons: {
     icon: "/logo/Deepdev.png",
     shortcut: "/logo/Deepdev.png",
-    // optionally apple icon if you have one for iOS devices
-    // apple: "/logo/apple-touch-icon.png",
   },
 }
 
