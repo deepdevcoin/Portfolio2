@@ -36,6 +36,16 @@ const projects = [
     image: "/interactive-portfolio-3d.jpg",
   },
   {
+    title: "Intelligent Recommendations & Insights",
+    description:
+      "A full-stack project combining Next.js frontend, Tailwind CSS styling, a Python backend, and Hugging Face models for AI-powered product recommendations and overviews.",
+    stack: ["Next.js", "Tailwind CSS", "Python backend", "Hugging Face model"],
+    live: "https://ai-frontend.deepdev.co.in/",
+    github: "https://github.com/deepdevcoin/ai-fronted",
+    featured: true,
+    image: "/recommendation.jpg",
+  },
+  {
     title: "AI Bill Reader",
     description:
       "Deep learning model for OCR-based text extraction from bills and documents. Engineered at Magnus Vista Labs for document automation.",
